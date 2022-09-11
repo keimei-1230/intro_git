@@ -5,3 +5,4 @@ git add.
 git commit.
 git rm.i
 git status.
+git diff comment add.
